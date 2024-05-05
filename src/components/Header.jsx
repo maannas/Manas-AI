@@ -37,7 +37,7 @@ const Header = () => {
     >
       <div className="flex items-center px-5 lg:px-7.5 xl:px-10 max-lg:py-4">
         <a className="block w-[12rem] xl:mr-8" href="#hero">
-          <h1 clasName = "font-extrabold font-size: 8rem;">Cypher Ai</h1>
+          <h1 clasName = "font-extrabold font-size: 8rem;">Manas's Cypher Ai</h1>
         </a>
 
         <nav
